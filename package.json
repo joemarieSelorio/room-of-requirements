@@ -1,0 +1,24 @@
+{
+  "name": "room-of-requirements",
+  "version": "1.0.0",
+  "description": "Meeting Room Reservation System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joemarieSelorio/room-of-requirements.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joemarieSelorio/room-of-requirements/issues"
+  },
+  "homepage": "https://github.com/joemarieSelorio/room-of-requirements#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.12",
+    "eslint": "^8.15.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}

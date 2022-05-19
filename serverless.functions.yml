@@ -1,0 +1,6 @@
+getUsers:
+  handler: src/handlers/getUsers.handler
+  events:
+    - http:
+      method: POST
+      path: /users/
